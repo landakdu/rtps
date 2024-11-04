@@ -36,6 +36,70 @@ function ar003() {window.open("https://lobbyeur.sgplayfun.com/index.jsp?game=F-A
 function ar002() {window.open("https://lobbyeur.sgplayfun.com/index.jsp?game=F-SF02&language=en_US&menumode=off&type=web");}
 function ar001() {window.open("https://lobbyeur.sgplayfun.com/index.jsp?game=F-SF01&language=en_US&menumode=off&type=web");}
 
+// Navbar
+function arcad1() {window.open("https://prelive-gs1.pragmaticplaylive.net/api/bigBassDemo");}
+function arcad2() {window.open("https://prelive-gs1.pragmaticplaylive.net/api/spacemanDemo");}
+function arcad3() {window.open("https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=1023&theme=quickfiressl&usertype=5&sext1=demo&sext2=demo&csid=1867&serverid=1867&variant=MAL-Demo&gameid=flyXDesktop&ul=en");}
+function arcad4() {window.open("https://m13.ns86.kingmakergames.co/games/horse-racing/index.html?lang=en");}
+function arcad5() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/163/6");}
+function arcad6() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/235/6");}
+function arcad7() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/179/6");}
+function arcad8() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/174/6");}
+function arcad9() {window.open("https://h5bt.cqgame.games/h5/GO01/?language=en&token=guest123");}
+function arcad10() {window.open("https://download.iplaystar.net/PSM-ON-00002/?access_token=(*--)6e72982bb3f9da8cce7650cde97b53c1&lang=eng&ccy=NON&sm=00&subid=0&fullscr=1&lc=en-US&pm=1&ns=0&origin=https%3a%2f%2fdemo-api.iplaystar.net&anal=10&lb=1&stf=0&showver=1");}
+function arcad11() {window.open("https://download.iplaystar.net/PSM-ON-00001/?access_token=(*--)6e72982bb3f9da8cce7650cde97b53c1&lang=eng&ccy=NON&sm=00&subid=0&fullscr=1&lc=en-US&pm=1&ns=0&origin=https%3a%2f%2fdemo-api.iplaystar.net&anal=10&lb=1&stf=0&showver=1");}
+function arcad12() {window.open("https://download.iplaystar.net/PSM-ON-00003/?access_token=(*--)6e72982bb3f9da8cce7650cde97b53c1&lang=eng&ccy=NON&sm=00&subid=0&fullscr=1&lc=en-US&pm=1&ns=0&origin=https%3a%2f%2fdemo-api.iplaystar.net&anal=10&lb=1&stf=0&showver=1");}
+function arcad13() {window.open("https://download.iplaystar.net/PSM-ON-00008/?access_token=(*--)6e72982bb3f9da8cce7650cde97b53c1&lang=eng&ccy=NON&sm=00&subid=0&fullscr=1&lc=en-US&pm=1&ns=0&origin=https%3a%2f%2fdemo-api.iplaystar.net&anal=10&lb=1&stf=0&showver=1");}
+function arcad14() {window.open("link");}
+
+// casino
+function casin1() {window.open("https://m13.ns86.kingmakergames.co/games/bonus-dice/index.html?lang=en");}
+function casin2() {window.open("https://m13.ns86.kingmakergames.co/games/bingo/index.html?lang=en");}
+function casin3() {window.open("https://thestartuptoday.com/iframe/bola-golek-by-kingmaker.html");}
+function casin4() {window.open("https://lobby.sgplayfun.com?game=C-SD01&language=en_US&type=web&menumode=off/");}
+function casin5() {window.open("https://lobby.sgplayfun.com/touch/spadenew/20201101B/games/belangkai/index.jsp?menumode=off&game=C-BK01&language=en_US&type=web");}
+function casin6() {window.open("https://lobby.sgplayfun.com/touch/spadenew/20201101B/games/fishprawncrab/index.jsp?menumode=off&game=C-TF02&language=en_US&type=web");}
+function casin7() {window.open("https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&sext1=demo&sext2=demo&serverid=22619&gameid=realRouletteWithCarolineDesktop&ul=en&variant=UAT-demo");}
+function casin8() {window.open("https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&sext1=demo&sext2=demo&serverid=22619&gameid=realDealerRouletteDealerSaratiDesktop&ul=en&variant=UAT-demo");}
+function casin9() {window.open("https://staticpff.yggdrasilgaming.com/init/launchClient.html?gameid=22001");}
+function casin10() {window.open("https://lobby.sgplayfun.com?game=C-RT01&language=en_US&type=web&menumode=off/");}
+function casin11() {window.open("https://cachedownload.playtechone.com/ngmdesktop/casinoclient.html?game=dbro&preferedmode=offline");}
+function casin12() {window.open("https://cachedownload.playtechone.com/ngmdesktop/casinoclient.html?game=db1000ro&preferedmode=offline");}
+function casin13() {window.open("https://netent-static.casinomodule.com/games/europeanroulette3_mobile_html/game/europeanroulette3_mobile_html.xhtml?staticServer=https%3A%2F%2Fnetent-static.casinomodule.com%2F&targetElement=netentgame&flashParams.bgcolor=000000&gameId=europeanroulette3_not_mobile&mobileParams.lobbyURL=https%253A%252F%252Fgames.netent.com%252Ftable-games%252Feuropean-roulette-slot%252F&server=https%3A%2F%2Fnetent-game.casinomodule.com%2F&lang=en&sessId=DEMO-5394227742-EUR&operatorId=default");}
+function casin14() {window.open("https://h5c.cqgame.games/213/?language=en&token=guest");}
+function casin15() {window.open("https://h5c.cqgame.games/207/?language=en&token=guest123");}
+function casin16() {window.open("https://cachedownload.playtechone.com/ngmdesktop/casinoclient.html?game=mro&preferedmode=offline");}
+function casin17() {window.open("https://m13.ns86.kingmakergames.co/games/viet-fish-prawn-crab/index.html?lang=en");}
+function casin18() {window.open("https://democasino.betsoftgaming.com/cwguestlogin.do?bankId=675&CDN=AUTO&gameId=10");}
+function casin19() {window.open("https://demo-ng.nucleusgaming.com/cwguestlogin.do?bankId=167&lang=en&gameId=30265");}
+function casin20() {window.open("https://crapswin.blogspot.com/2023/08/craps.html");}
+function casin21() {window.open("https://asccw.playngonetwork.com/casino/ContainerLauncher?pid=2&gid=craps&lang=en_GB&practice=1&channel=desktop&demo=2");}
+function casin22() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/152/6");}
+function casin23() {window.open("https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=bca&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD");}
+function casin24() {window.open("https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&keyname=Baccarat3HZC&mode=fun&locale=en&lobbyurl=https%3a%2f%2fhaba88.com%2f");}
+function casin25() {window.open("https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&keyname=SicBo&mode=fun&locale=en&lobbyurl=https%3a%2f%2fhaba88.com%2f");}
+function casin26() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/125/6");}
+function casin27() {window.open("https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&keyname=TGDragonTiger&mode=fun&locale=en&lobbyurl=https%3a%2f%2fhaba88.com%2f%3fref%3dlang");}
+function casin28() {window.open("https://bgaming-network.com/play/HiLoSwitch/FUN?server=demo");}
+function casin29() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/233/6");}
+function casin30() {window.open("https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&sext1=demo&sext2=demo&serverid=22619&gameid=ultimateBlackjackwithOliviaDesktop&ul=en&variant=UAT-demo");}
+function casin31() {window.open("https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&sext1=demo&sext2=demo&serverid=22619&gameid=ultimateBlackjackWithRachaelDesktop&ul=en&variant=UAT-demo");}
+function casin32() {window.open("https://playsonsite-dgm.ps-gamespace.com/launch?key=TEST550004&partner=playsonsite-prod&gameName=blackjack_us_high&lang=en&wl=pl_gate");}
+function casin33() {window.open("https://www.funkygames.io/demo?gameCode=602826&lang=en");}
+function casin34() {window.open("https://pg.pascalgaming.com/?partnerId=18746949&currency=USD&lan=en&gameId=61&mode=fun");}
+function casin35() {window.open("https://demo.evoplay.games/demo/table/html5/evoplay/indianpoker");}
+function casin36() {window.open("https://demo.talentainternational.com/launch/launch.jsp?types=card.txsholdem&lang=en&currency=FUN&otp=guest&closeOnExit=1&enableClose=0");}
+function casin37() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/111/6");}
+function casin38() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/113/6");}
+function casin39() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/94/6");}
+function casin40() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/161/6");}
+function casin41() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/72/6");}
+function casin42() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/124/6");}
+function casin43() {window.open("https://jiligames.com/plusplayer/PlusTrialWeb/197/6");}
+function casin44() {window.open("link");}
+
+
+
 
 
 
