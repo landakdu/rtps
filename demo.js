@@ -632,4 +632,47 @@ function evop166() {window.open("https://demo.evoplay.games/demo/fullstate/html5
 function evop167() {window.open("https://demo.evoplay.games/demo/fullstate/html5/evoplay/sweetsugar?useragent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1");}
 function evop168() {window.open("link");}
 
-// Evo Play
+// Fastspin
+function fss1() {window.open("https://go.fastspindemo.com?game=S-MM02&language=id_ID&type=web&menumode=off&pm=3");}
+function fss2() {window.open("https://go.fastspindemo.com?game=S-NR01&language=en_US&type=web&menumode=off&pm=3");}
+function fss3() {window.open("https://go.fastspindemo.com?game=S-ME01&language=en_US&type=web&menumode=off&pm=3");}
+function fss4() {window.open("https://go.fastspindemo.com?game=S-SF02&language=en_US&type=web&menumode=off&pm=3");}
+function fss5() {window.open("https://go.fastspindemo.com?game=S-CJ01&language=en_US&type=web&menumode=off&pm=3");}
+function fss6() {window.open("https://go.fastspindemo.com?game=S-HF02&language=en_US&type=web&menumode=off&pm=3");}
+function fss7() {window.open("https://go.fastspindemo.com?game=S-HF03&language=en_US&type=web&menumode=off&pm=3");}
+function fss8() {window.open("https://go.fastspindemo.com?game=S-HT01&language=en_US&type=web&menumode=off&pm=3");}
+function fss9() {window.open("https://go.fastspindemo.com?game=S-MS01&language=en_US&type=web&menumode=off&pm=3");}
+function fss10() {window.open("https://go.fastspindemo.com?game=S-TR01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss11() {window.open("https://go.fastspindemo.com?game=S-GS05&language=id_ID&type=web&menumode=off&pm=3");}
+function fss12() {window.open("https://go.fastspindemo.com?game=S-RH02&language=id_ID&type=web&menumode=off&pm=3");}
+function fss13() {window.open("https://go.fastspindemo.com?game=S-RK02&language=id_ID&type=web&menumode=off&pm=3");}
+function fss14() {window.open("https://go.fastspindemo.com?game=S-TN01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss15() {window.open("https://go.fastspindemo.com?game=S-WW02&language=id_ID&type=web&menumode=off&pm=3");}
+function fss16() {window.open("https://go.fastspindemo.com?game=S-PW03&language=id_ID&type=web&menumode=off&pm=3");}
+function fss17() {window.open("https://go.fastspindemo.com?game=S-FM03&language=id_ID&type=web&menumode=off&pm=3");}
+function fss18() {window.open("https://go.fastspindemo.com?game=S-RM01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss19() {window.open("https://go.fastspindemo.com?game=S-RC01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss20() {window.open("https://go.fastspindemo.com?game=S-NR01&language=en_US&type=web&menumode=off&pm=3");}
+function fss21() {window.open("https://go.fastspindemo.com?game=S-MB03&language=en_US&type=web&menumode=off&pm=3");}
+function fss22() {window.open("https://go.fastspindemo.com?game=S-MT01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss23() {window.open("https://go.fastspindemo.com?game=S-SC01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss24() {window.open("https://go.fastspindemo.com?game=S-VB01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss25() {window.open("https://go.fastspindemo.com?game=S-GR01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss26() {window.open("https://go.fastspindemo.com?game=S-LE04&language=id_ID&type=web&menumode=off&pm=3");}
+function fss27() {window.open("https://go.fastspindemo.com?game=S-FL03&language=id_ID&type=web&menumode=off&pm=3");}
+function fss28() {window.open("https://go.fastspindemo.com?game=S-GW02&language=id_ID&type=web&menumode=off&pm=3");}
+function fss29() {window.open("https://go.fastspindemo.com?game=S-SW01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss30() {window.open("https://go.fastspindemo.com?game=S-FL04&language=id_ID&type=web&menumode=off&pm=3");}
+function fss31() {window.open("https://go.fastspindemo.com?game=S-LO01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss32() {window.open("https://go.fastspindemo.com?game=S-SB02&language=id_ID&type=web&menumode=off&pm=3");}
+function fss33() {window.open("https://go.fastspindemo.com?game=S-NF01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss34() {window.open("https://go.fastspindemo.com?game=S-TH01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss35() {window.open("https://go.fastspindemo.com?game=S-OM01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss36() {window.open("https://go.fastspindemo.com?game=S-MB02&language=id_ID&type=web&menumode=off&pm=3");}
+function fss37() {window.open("https://go.fastspindemo.com?game=S-GL03&language=id_ID&type=web&menumode=off&pm=3");}
+function fss38() {window.open("https://go.fastspindemo.com?game=S-LN01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss39() {window.open("https://go.fastspindemo.com?game=S-LF02&language=id_ID&type=web&menumode=off&pm=3");}
+function fss40() {window.open("https://go.fastspindemo.com?game=S-GE01&language=id_ID&type=web&menumode=off&pm=3");}
+function fss41() {window.open("link");}
+
+// Fastspin
