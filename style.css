@@ -486,28 +486,29 @@ height: 96%;
 .keatas01 {
   position: relative;
   animation-name: keatas01;
-  animation-duration: 0.5s;
+  animation-duration: 1s;
   animation-delay: -0s;
 }
 
-.kebawah01 {
+.kebawah1, .kebawah2, .kebawah3, .kebawah4, .kebawah5, .kebawah6, .kebawah7, .kebawah8, .kebawah9, .kebawah10, .kebawah11, .kebawah12, .kebawah13, .kebawah14, .kebawah15, .kebawah16, .kebawah17, .kebawah18, .kebawah19, .kebawah20, .kebawah21, .kebawah22, .kebawah23, .kebawah24, .kebawah25 {
   position: relative;
   animation-name: kebawah01;
-  animation-duration: 0.5s;
   animation-delay: -0s;
 }
+
+.kebawah1 {animation-duration: 1.3s;}.kebawah2{animation-duration: 0.2s;}.kebawah3{animation-duration: 0.3s;}.kebawah4{animation-duration: 0.4s;}.kebawah5{animation-duration: 0.5s;}.kebawah6{animation-duration: 0.6s;}.kebawah7{animation-duration: 0.7s;}.kebawah8{animation-duration: 0.8s;}.kebawah9{animation-duration: 0.9s;}.kebawah10{animation-duration: 1s;}.kebawah11{animation-duration: 1.1s;}.kebawah12{animation-duration: 1.2s;}.kebawah13{animation-duration: 1.3s;}.kebawah14{animation-duration: 1.4s;}.kebawah15{animation-duration: 1.5s;}.kebawah16{animation-duration: 1.6s;}.kebawah17{animation-duration: 1.7s;}.kebawah18{animation-duration: 1.8s;}.kebawah19{animation-duration: 1.9s;}.kebawah20{animation-duration: 2s;}.kebawah21{animation-duration: 2.1s;}.kebawah22{animation-duration: 2.2s;}.kebawah23{animation-duration: 2.3s;}.kebawah24{animation-duration: 2.4s;}.kebawah25{animation-duration: 2.5s;}
 
 .kekanan01 {
   position: relative;
   animation-name: kekanan01;
-  animation-duration: 0.5s;
+  animation-duration: 0.6s;
   animation-delay: 0s;
 }
 
 .kekiri01 {
   position: relative;
   animation-name: kekiri01;
-  animation-duration: 0.5s;
+  animation-duration: 0.3s;
   animation-delay: 0s;
 }
 
