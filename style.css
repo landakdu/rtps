@@ -213,6 +213,10 @@ text-align: left; /* Jika Anda ingin teks rata kiri pada layar kecil */
     box-shadow: 0 8px 6px 0 rgba(0, 0, 0, 0.2), 0 5px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+@media screen and (max-width: 999px) {
+#searchbar {font-size: xx-large;}
+}
+
 #list {
     width: 100%;
     height: auto;
@@ -372,7 +376,7 @@ background-size: contain;
 background-repeat: no-repeat;
 box-shadow: 0 8px 6px 0 rgba(0, 0, 0, 0.2), 0 5px 20px 0 rgba(0, 0, 0, 0.19);
 }
-@media screen and (max-width: 1300px) {.tmenu {width: 15.5%;height:110px;}}
+@media screen and (max-width: 1300px) {.tmenu {width: 15.5%;height:40px;}}
 
 .menu1 {
  width: 100%;
@@ -476,26 +480,6 @@ height: 96%;
   width: 24.99999%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media screen and (max-width: 800px) {
-
 .card-content{margin:0% 6%;}
 }
