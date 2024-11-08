@@ -26,7 +26,7 @@ const navbar1 = `
     <a href="./game/bbin/index.html" class="stay tmenu gmenu" style="background-image: url(./game/icon/bbin.png)"></a>
     <a href="./game/creativegaming/index.html" class="stay tmenu gmenu" style="background-image: url(./game/icon/creativegaming.png)"></a>
     <a href="./game/evoplay/index.html" class="stay tmenu gmenu" style="background-image: url(./game/icon/evoplay.png)"></a>
-    <a href="./game/royalgaming/index.html" class="stay tmenu gmenu" style="background-image: url(./game/icon/royalgaming.png)"></a>
+    <a href="./game/royalslotgaming/index.html" class="stay tmenu gmenu" style="background-image: url(./game/icon/royalgaming.png)"></a>
     <a href="./game/fishing/index.html" class="stay tmenu gmenu" style="background-image: url(./game/icon/fishing.png)"></a>
     <a href="./game/arcade/index.html" class="stay tmenu gmenu" style="background-image: url(./game/icon/arcade.png)"></a>
     <a href="./game/casino/index.html" class="stay tmenu gmenu" style="background-image: url(./game/icon/casino.png)"></a>
@@ -62,7 +62,7 @@ const navbar2 = `
     <a href="../bbin/index.html" class="stay tmenu gmenu" style="background-image: url(../icon/bbin.png)"></a>
     <a href="../creativegaming/index.html" class="stay tmenu gmenu" style="background-image: url(../icon/creativegaming.png)"></a>
     <a href="../evoplay/index.html" class="stay tmenu gmenu" style="background-image: url(../icon/evoplay.png)"></a>
-    <a href="../royalgaming/index.html" class="stay tmenu gmenu" style="background-image: url(../icon/royalgaming.png)"></a>
+    <a href="../royalslotgaming/index.html" class="stay tmenu gmenu" style="background-image: url(../icon/royalgaming.png)"></a>
     <a href="../fishing/index.html" class="stay tmenu gmenu" style="background-image: url(../icon/fishing.png)"></a>
     <a href="../arcade/index.html" class="stay tmenu gmenu" style="background-image: url(../icon/arcade.png)"></a>
     <a href="../casino/index.html" class="stay tmenu gmenu" style="background-image: url(../icon/casino.png)"></a>
