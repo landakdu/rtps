@@ -2563,8 +2563,8 @@ function pps404() {window.open("https://demogamesfree.pragmaticplay.net/gs2c/ope
 function pps405() {window.open("https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20santa&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fid%2F");}
 function pps406() {window.open("https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs50aladdin&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fid%2F");}
 function pps407() {window.open("https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=GBP&gameSymbol=vs20bl&websiteUrl=https%3A%2F%2Fpragmaticplaygames.com%2Fen&lobbyUrl=https%3A%2F%2Fpragmaticplaygames.com%2F");}
-function pps408() {window.open("link");}
-function pps409() {window.open("link");}
+function pps408() {window.open("https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20procountx&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fid%2F&lang=ID&cur=IDR");}
+function pps409() {window.open("https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vswaysfltdrgny&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fid%2F&lang=ID&cur=IDR");}
 function pps410() {window.open("link");}
 function pps411() {window.open("link");}
 function pps412() {window.open("link");}
