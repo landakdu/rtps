@@ -378,6 +378,20 @@ box-shadow: 0 8px 6px 0 rgba(0, 0, 0, 0.2), 0 5px 20px 0 rgba(0, 0, 0, 0.19);
 }
 @media screen and (max-width: 1300px) {.tmenu {width: 15.5%;height:40px;}}
 
+.menuutama {
+border-radius: 100px;
+margin: 0.5% 0.3%;
+width: 95%;
+height: 60px;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+box-shadow: 0 8px 6px 0 rgba(0, 0, 0, 0.2), 0 5px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.posisimenuutama{display:flex;justify-content: center;margin: 18% 0% 0% 0%;width:auto;height:auto;}
+@media screen and (max-width: 1300px) {..posisimenuutama {width: margin: 30% 0% 0% 0%;}}
+
 .menu1 {
  width: 100%;
  height: auto;
@@ -399,15 +413,6 @@ width: 100%;
 height: auto;
 }
 
-
-
-
-
-
-
-@media screen and (max-width: 1200px) {
-
-}
 
 @media screen and (max-width: 1200px) {                     
 .gkon {
@@ -478,3 +483,62 @@ height: 96%;
 .card-content{margin:0% 6%;}
 }
 
+.keatas01 {
+  position: relative;
+  animation-name: keatas01;
+  animation-duration: 3s;
+  animation-delay: -0s;
+}
+
+.kebawah01 {
+  position: relative;
+  animation-name: kebawah01;
+  animation-duration: 5s;
+  animation-delay: -0s;
+}
+
+.kekanan01 {
+  position: relative;
+  animation-name: kekanan01;
+  animation-duration: 0.5s;
+  animation-delay: 0s;
+}
+
+.kekiri01 {
+  position: relative;
+  animation-name: kekiri01;
+  animation-duration: 0.5s;
+  animation-delay: 0s;
+}
+
+@keyframes keatas01 {
+  0%   {top:2000px;}
+  25%  {top:2000px;}
+  50%  {top:2000px;}
+  75%  {top:2000px;}
+  100% {top:0px;}
+}
+
+@keyframes kebawah01 {
+  0%   {bottom:2000px;}
+  25%  {bottom:2000px;}
+  50%  {bottom:2000px}
+  75%  {bottom:2000px;}
+  100% {bottom:0%;}
+}
+
+@keyframes kekanan01 {
+  0%   {right:200%;}
+  25%  {right:200%;}
+  50%  {right:200%;}
+  75%  {right:200%;}
+  100% {right:0%;}
+}
+
+@keyframes kekiri01 {
+  0%   {left:200%;}
+  25%  {left:200%;}
+  50%  {left:200%;}
+  75%  {left:200%;}
+  100% {left:0%;}
+}
