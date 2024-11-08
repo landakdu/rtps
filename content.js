@@ -4,7 +4,7 @@ const navbar1 = `
 <div class="mobile-container">
 <!-- Top Navigation Menu -->
 <div class="topnav">
-  <a href="./index.html" class="active tmenu" style="background-image: url(./game/icon/home.png)"></a>
+  <a href="./index.html" class="active tmenu kekanan01" style="background-image: url(./game/icon/home.png); animation-delay:0.5s;"></a>
   <div id="myLinks">
     <a href="./game/pragmatic/index.html" class="stay tmenu gmenu" style="background-image: url(./game/icon/pragmatic.png)"></a>
     <a href="./game/pgsoft/index.html" class="stay tmenu gmenu" style="background-image: url(./game/icon/pgsoft.png)"></a>
@@ -31,7 +31,7 @@ const navbar1 = `
     <a href="./game/arcade/index.html" class="stay tmenu gmenu" style="background-image: url(./game/icon/arcade.png)"></a>
     <a href="./game/casino/index.html" class="stay tmenu gmenu" style="background-image: url(./game/icon/casino.png)"></a>
   </div>
-  <a href="javascript:void(0);" class="icon tmenu" onclick="myFunction()" style="background-image: url(./game/icon/game.png)"></a>
+  <a href="javascript:void(0);" class="icon tmenu kekiri01" onclick="myFunction()" style="background-image: url(./game/icon/game.png); animation-delay:0.15s;"></a>
 </div>
 `;
 
@@ -40,7 +40,7 @@ const navbar2 = `
 <div class="mobile-container">
 <!-- Top Navigation Menu -->
 <div class="topnav">
-  <a href="../../index.html" class="active tmenu" style="background-image: url(../icon/home.png)"></a>
+  <a href="../../index.html" class="active tmenu kekanan01" style="background-image: url(../icon/home.png); animation-delay:0.5s;"></a>
   <div id="myLinks">
     <a href="../pragmatic/index.html" class="stay tmenu gmenu" style="background-image: url(../icon/pragmatic.png)"></a>
     <a href="../pgsoft/index.html" class="stay tmenu gmenu" style="background-image: url(../icon/pgsoft.png)"></a>
@@ -67,14 +67,16 @@ const navbar2 = `
     <a href="../arcade/index.html" class="stay tmenu gmenu" style="background-image: url(../icon/arcade.png)"></a>
     <a href="../casino/index.html" class="stay tmenu gmenu" style="background-image: url(../icon/casino.png)"></a>
   </div>
-  <a href="javascript:void(0);" class="icon tmenu" onclick="myFunction()" style="background-image: url(../icon/game.png)"></a>
+  <a href="javascript:void(0);" class="icon tmenu kekiri01" onclick="myFunction()" style="background-image: url(../icon/game.png); animation-delay:0.15s;"></a>
 </div>
 `;
 
 // SEARCH
 const search1 = `
-<input id="searchbar" 
-               onkeyup="search_animal()" 
-               type="text" name="search" 
-               placeholder="cari nama permainan...">
+<div class="keatas01" style="animation-delay:0s"><input id="searchbar" onkeyup="search_animal()" type="text" name="search" placeholder="cari nama permainan..."></div>
+`;
+
+// MENU UTAMA
+const menuutama1 = `
+<div class="posisimenuutama"><div class="menuutama" style="background-image: url(./game/icon/game.png); animation-delay:0.0s; href="javascript:void(0); onclick="myFunction()"></div></div>
 `;
