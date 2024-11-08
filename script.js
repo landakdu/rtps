@@ -32,3 +32,5 @@ window.addEventListener('DOMContentLoaded', () => {let barnavbar1  = document.qu
 window.addEventListener('DOMContentLoaded', () => {let barnavbar2  = document.querySelector('navbar2[role="navigation"]');barnavbar2.innerHTML = navbar2;});
 /*! Search CONTENT */
 window.addEventListener('DOMContentLoaded', () => {let barsearch1  = document.querySelector('search1[role="navigation"]');barsearch1.innerHTML = search1;});
+/*! menuutama CONTENT */
+window.addEventListener('DOMContentLoaded', () => {let barmenuutama1  = document.querySelector('menuutama1[role="navigation"]');barmenuutama1.innerHTML = menuutama1;});
