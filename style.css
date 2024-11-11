@@ -90,24 +90,23 @@ margin-left: auto;
 }
 .textSLOT {
 position: absolute;
-top: 1%;
-color: lightgoldenrodyellow;
-text-align: center;
-font-size: 8px;
-margin-bottom: 0.01%;
-white-space: nowrap;
-width: 78%;
-border: 1px solid #0000;
-padding: 0% 2%;
-overflow: hidden;
-text-overflow: ellipsis;
+    top: 1%;
+    color: lightgoldenrodyellow;
+    text-align: left;
+    font-size: 1px;
+    white-space: nowrap;
+    width: 60%;
+    border: 1px solid #0000;
+    padding: 0% 0% 0% 20%;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
-@media screen and (max-height: 1200px) {.textSLOT {width: 50%;margin: 0% 6%;}}
+
 
 .textfundemo {
     color: #fff;
     text-align: center;
-    font-size: 100%;
+    font-size: 1px;
     white-space: nowrap;
     width: 100%;
     border: 1px solid #0000;
@@ -494,7 +493,7 @@ margin: 4% 0% 0% 0%;
 
 }
 
-@media screen and (max-height: 1200px) {
+@media screen and (max-width: 1200px) {
   .overlay {overflow-y: auto;}
   .overlay a {font-size: 20px}
   .overlay .closebtn {
@@ -566,4 +565,4 @@ margin: 4% 0% 0% 0%;
   100% {left:0%;}
 }
 
-@media screen and (max-height: 1200px) {}
+@media screen and (max-width: 1200px) {}
