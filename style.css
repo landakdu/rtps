@@ -16,7 +16,7 @@ root{--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc35
 @media screen and (max-width: 999px) {.card-content{padding: 0% 20% 10% 20%;}}
 @media screen and (max-width: 800px) {.card-content{height: 100%;width: 100%;display: contents;}}
 
-.percent{height: 27px;display: flex;overflow: hidden;border-radius: 101px;line-height: 0;font-size: .75rem;background-color: #e9ecef;position: relative;margin: 10% 0%;box-shadow: 0 8px 6px 0 rgba(0, 0, 0, 0.2), 0 5px 20px 0 rgba(0, 0, 0, 0.19);}
+.percent{height: 27px;display: flex;overflow: hidden;border-radius: 101px;line-height: 0;font-size: .75rem;background-color: #e9ecef;position: relative;margin: 0% 0% 10% 0%;box-shadow: 0 8px 6px 0 rgba(0, 0, 0, 0.2), 0 5px 20px 0 rgba(0, 0, 0, 0.19);}
 
 .percent p{z-index:15;position:absolute;text-align:center;width:100%;font-size:14px;font-weight:700;transform:translateY(14px);color:#000}
 @media screen and (max-width: 1200px) {.percent p{transform:translateY(20px);}}
@@ -89,15 +89,13 @@ margin-right: auto;
 margin-left: auto;
 }
 .textSLOT {
-position: absolute;
-    top: 1%;
-    color: lightgoldenrodyellow;
-    text-align: left;
-    font-size: 1px;
+    color: #fff;
+    text-align: center;
+    font-size: 100%;
     white-space: nowrap;
-    width: 60%;
+    width: 100%;
     border: 1px solid #0000;
-    padding: 0% 0% 0% 20%;
+    padding: 1px 19% 1px 19%;
     overflow: hidden;
     text-overflow: ellipsis;
 }
@@ -106,7 +104,7 @@ position: absolute;
 .textfundemo {
     color: #fff;
     text-align: center;
-    font-size: 1px;
+    font-size: 100%;
     white-space: nowrap;
     width: 100%;
     border: 1px solid #0000;
