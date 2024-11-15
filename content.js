@@ -10,7 +10,7 @@ const navbar1 = `
     <a href="./game/pgsoft/index.html" class="stay tmenu gmenu kebawah3" style="background-image: url(https://i.ibb.co/jhNn2Dz/pgsoft.png)"></a>
     <a href="./game/spadegaming/index.html" class="stay tmenu gmenu kebawah04" style="background-image: url(https://i.ibb.co/5n4658h/spadegaming.png)"></a>
     <a href="./game/fastspin/index.html" class="stay tmenu gmenu kebawah5" style="background-image: url(https://i.ibb.co/9pZ3MjZ/fastspin.png)"></a>
-    <a href="./game/joker/index.html" class="stay tmenu gmenu kebawah6" style="background-image: url(https://i.ibb.co/wMY3n9V/joker.png)"></a>
+    <a href="./game/jokerslot/index.html" class="stay tmenu gmenu kebawah6" style="background-image: url(https://i.ibb.co/wMY3n9V/joker.png)"></a>
     <a href="./game/boongo/index.html" class="stay tmenu gmenu kebawah7" style="background-image: url(https://i.ibb.co/jykyP2C/boongo.png)"></a>
     <a href="./game/jili/index.html" class="stay tmenu gmenu kebawah8" style="background-image: url(https://i.ibb.co/5K3Lmbj/jili.png)"></a>
     <a href="./game/playtech/index.html" class="stay tmenu gmenu kebawah9" style="background-image: url(https://i.ibb.co/GM9ZxXX/playtech.png)"></a>
@@ -46,7 +46,7 @@ const navbar2 = `
     <a href="../pgsoft/index.html" class="stay tmenu gmenu kebawah3" style="background-image: url(https://i.ibb.co/jhNn2Dz/pgsoft.png)"></a>
     <a href="../spadegaming/index.html" class="stay tmenu gmenu kebawah4" style="background-image: url(https://i.ibb.co/5n4658h/spadegaming.png)"></a>
     <a href="../fastspin/index.html" class="stay tmenu gmenu kebawah5" style="background-image: url(https://i.ibb.co/9pZ3MjZ/fastspin.png)"></a>
-    <a href="../joker/index.html" class="stay tmenu gmenu kebawah6" style="background-image: url(https://i.ibb.co/wMY3n9V/joker.png)"></a>
+    <a href="../jokerslot/index.html" class="stay tmenu gmenu kebawah6" style="background-image: url(https://i.ibb.co/wMY3n9V/joker.png)"></a>
     <a href="../boongo/index.html" class="stay tmenu gmenu kebawah7" style="background-image: url(https://i.ibb.co/jykyP2C/boongo.png)"></a>
     <a href="../jili/index.html" class="stay tmenu gmenu kebawah8" style="background-image: url(https://i.ibb.co/5K3Lmbj/jili.png)"></a>
     <a href="../playtech/index.html" class="stay tmenu gmenu kebawah9" style="background-image: url(https://i.ibb.co/GM9ZxXX/playtech.png)"></a>
